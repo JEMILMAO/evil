@@ -59,8 +59,8 @@ A:visited {
     color: #FFFFFF; text-decoration: none
 }
 A:hover {
-    text-shadow: 0pt 0pt 0.3em white, 0pt 0pt 0.3em white;
-    color:#54EE1F ; text-decoration: none
+    text-shadow: 0pt 0pt 0.3em #54EE1F, 0pt 0pt 0.3em #54EE1F;
+    color:white ; text-decoration: none
 }
 A:active {
     color: #FFFFFF; text-decoration: none
