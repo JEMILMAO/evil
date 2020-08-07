@@ -60,7 +60,7 @@ A:visited {
 }
 A:hover {
     text-shadow: 0pt 0pt 0.3em white, 0pt 0pt 0.3em white;
-    color: white; text-decoration: none
+    color:#54EE1F ; text-decoration: none
 }
 A:active {
     color: #FFFFFF; text-decoration: none
