@@ -23,7 +23,7 @@
 
 body {
     font-family: 'VCR OSD Mono', serif !important; 
-    color: white;
+    color: #ffc0cb;
     font-style: italic;
     background: black;
     }
@@ -53,22 +53,22 @@ body, div
 
 
 A:link {
-    color: #FFFFFF; text-decoration: none
+    color: #ffc0cb; text-decoration: none
 }
 A:visited {
-    color: #FFFFFF; text-decoration: none
+    color: #ffc0cb; text-decoration: none
 }
 A:hover {
     text-shadow: 0pt 0pt 0.3em white, 0pt 0pt 0.3em white;
-    color:white ; text-decoration: none
+    color:#ffc0cb ; text-decoration: none
 }
 A:active {
-    color: #FFFFFF; text-decoration: none
+    color: #ffc0cb; text-decoration: none
 }
 
 #screen {
     padding: 15px 30px;
-    border: 2px solid white;
+    border: 2px solid pink;
     text-align: center;
     position: absolute;
     top: 50%;
