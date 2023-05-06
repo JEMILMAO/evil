@@ -11,7 +11,7 @@ function loaded() {
     setInterval(loop, 250);
 }
 var x = 0;
-var titleText = [ "j", "je", "jem", "jemi", "jemi.", "jemi.g", "jemi.gg", "jemi.g", "jemi.", "jemi", "jem", "je", "j", "." ];
+var titleText = [ ".", "e", "ev", "evi", "evil", "evi", "ev", "e", "." ];
 
 function loop() {
     document.getElementsByTagName("title")[0].innerHTML = titleText[x++%titleText.length];
