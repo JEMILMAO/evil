@@ -11,7 +11,7 @@ function loaded() {
     setInterval(loop, 250);
 }
 var x = 0;
-var titleText = [ ".", "e", "ev", "evi", "evil", "evi", "ev", "e", "." ];
+var titleText = [ "z", "ze", "zer", "zero", "zeros", "zerost", "zerosty", "zerostyl", "zerostyle", "zerostyl", "zerosty", "zerost", "zeros", "zero", "zer", "ze", "z" ];
 
 function loop() {
     document.getElementsByTagName("title")[0].innerHTML = titleText[x++%titleText.length];
